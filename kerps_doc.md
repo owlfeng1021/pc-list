@@ -1,7 +1,3 @@
-> 添加导出功能的前端页面 
-@GetMapping("levelExcel") button
-@GetMapping("dataExcel") button 
-> 修改关于kmeans的错误操作 
 ## 关于基本测试出现的问题
 ### 管理界面 
 1. 会员级别管理(分页,搜索) 功能未完成
